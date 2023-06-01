@@ -1,0 +1,2 @@
+From school directory:
+javac -cp .:junit-platform-console-standalone-1.9.1.jar ./test/SchoolTest.java ./schedule/Schedule.java ./subject/Subject.java ./subject/SubjectType.java && java -jar junit-platform-console-standalone-1.9.1.jar -cp .  --scan-classpath
