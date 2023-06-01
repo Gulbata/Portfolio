@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5E424342-67F8-4517-AEF7-E26B9FA84299}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestBlockMatrix/TestBlockMatrix.cs">
+    <Files>
+      <File FileName="BlockMatrix/Program.cs" />
+      <File FileName="BlockMatrix/BM.cs" Line="38" Column="26" />
+      <File FileName="BlockMatrix/Menu.cs" />
+      <File FileName="TestBlockMatrix/TestBlockMatrix.cs" Line="95" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlockMatrix" expanded="True">
+            <Node name="BlockMatrix" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TestBlockMatrix" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="TestBlockMatrix.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlockMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

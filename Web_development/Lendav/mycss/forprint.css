@@ -1,0 +1,10 @@
+
+
+
+@media print{
+  button,.carousel,footer,header,form,video
+  {display: none;}
+}
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}

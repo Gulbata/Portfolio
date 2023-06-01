@@ -1,0 +1,12 @@
+0 John Sunday
+1 Noah Sunday
+2 Oliver Sunday Wednesday Thursday Friday Sunday
+3 George Wednesday Sunday
+4 Arthur Sunday Wednesday
+5 Muhammad Sunday Wednesday
+6 Leo Monday Wednesday Sunday
+7 Harry Monday Wednesday Sunday
+8 Oscar Sunday
+9 Archie Thursday Sunday
+10 Archie Monday Wednesday Friday Sunday
+11 Henry Sunday

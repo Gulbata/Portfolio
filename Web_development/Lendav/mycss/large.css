@@ -1,0 +1,10 @@
+/* large text for people with visual impairement */
+
+@import url('/mycss/forscreens.css');
+
+
+p{font-size: 20px;}
+
+#top_main>section>div.topmarginS>div>div {
+  min-width: 500px;
+}

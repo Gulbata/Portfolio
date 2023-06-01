@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D0050DD3-6306-45B0-8335-B5D9C1966D5A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/Area.cs">
+    <Files>
+      <File FileName="Weather/Area.cs" Line="16" Column="1" IsPinned="True" />
+      <File FileName="Weather/Program.cs" />
+      <File FileName="Weather/Weather.cs" />
+      <File FileName="Weather/AreaEnumerator.cs" />
+      <File FileName="Weather/CycleEnumerator.cs" />
+      <File FileName="Tests/UnitTest1.cs" Line="205" Column="5" />
+      <File FileName="Tests/Usings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Weather" expanded="True">
+            <Node name="Tests" expanded="True" />
+            <Node name="Weather" expanded="True">
+              <Node name="Area.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Weather" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Weather PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,3 @@
+After name of the executable  first command line argument shall be input file name, second command line argument shall be name of the week day.
+
+Example:./ main file.txt Wednesday 

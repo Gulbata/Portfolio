@@ -1,0 +1,110 @@
+
+
+
+
+p{font-family: sans-serif,'Times New Roman',Georgia, Times ;}
+
+#top_main>div.topmarginS>div>div{min-width: 370px;}
+#top_main>section>div.topmarginS>div>div {
+  min-width: 370px;
+}
+#top_Contact_us>div.topmarginM>div>div {min-width: 370px;min-height: 370px;}
+
+#aboutus{max-width: 800px;}
+
+.maincontent {
+  margin-top: 80px;
+}
+
+.topmarginM {
+  margin-top: 80px;
+}
+
+.topmarginS {
+  margin-top: 30px;
+}
+.centered {
+  text-align: center;
+}
+
+
+
+#firstelEmentMain{
+  height:250px; 
+  background:url("../Pics/Main/maaler/255937267_370413008215761_6961589896772538679_n.jpg" ) ;
+  background-repeat: no-repeat; 
+  background-position:center;}
+
+#firstelEmentContactUs {
+  height: 250px;
+  background: url("../Pics/Contact_us/151998644_184974663426264_1200201611148744668_n.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#Contact_Us_contactDetails{height: 230px;}
+#Contact_Us_email{background-color: rgba(227, 229, 231, 0.228);height: 570px;padding-top: 30px;}
+
+div>img{width:350px;}
+figure>img {
+  width: 350px;
+}
+#Drinks_pic>div>div>a>img{width: 350px;}
+#Food_pic>div>div>a>img {
+  width: 350px;
+}
+
+
+footer{ margin-top: 50px; background-color:rgb(237, 237, 235)}
+footer>div>div { min-height: 250px;}
+
+iframe{height: 370px; width: 370px; border: 0px; overflow: hidden; } 
+
+
+a:link {
+  color: rgb(44, 43, 43);
+  /* background-color: transparent; */
+  text-decoration: underline;
+  
+  
+
+}
+nav a:link {
+  color: rgb(44, 43, 43);
+  /* background-color: transparent; */
+  text-decoration: none;
+
+
+
+}
+
+a:visited {
+  color: rgb(207, 132, 132);
+  /* background-color: transparent; */
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  /* background-color: transparent; */
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+ul li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+

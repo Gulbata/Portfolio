@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockMatrix", "BlockMatrix\BlockMatrix.csproj", "{5E424342-67F8-4517-AEF7-E26B9FA84299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlockMatrix", "TestBlockMatrix\TestBlockMatrix.csproj", "{F524F531-955C-46F7-8519-937C86CACB8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E424342-67F8-4517-AEF7-E26B9FA84299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E424342-67F8-4517-AEF7-E26B9FA84299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E424342-67F8-4517-AEF7-E26B9FA84299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E424342-67F8-4517-AEF7-E26B9FA84299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F524F531-955C-46F7-8519-937C86CACB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F524F531-955C-46F7-8519-937C86CACB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F524F531-955C-46F7-8519-937C86CACB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F524F531-955C-46F7-8519-937C86CACB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD6F447-A2B5-4BFB-8A2F-EE714C834463}
+	EndGlobalSection
+EndGlobal
